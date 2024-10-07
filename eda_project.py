@@ -1,7 +1,7 @@
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-df = pd.read_csv('C:/Users/gopik/Documents/eda/google-playstore-apps/Google-Playstore.csv')
+df = pd.read_csv('google-playstore-apps/Google-Playstore.csv')
 print(df.head())
 # Descriptive Statistics
 print("Descriptive Statistics:")
